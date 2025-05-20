@@ -38,7 +38,7 @@ A simple RESTful API for managing books and reviews, built with Node.js, Express
    ```env
    MONGODB_URI=mongodb://localhost:27017/book-review-db
    JWT_SECRET=your_jwt_secret
-   PORT=3000
+   
    ```
 
 ---
